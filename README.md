@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m a passionate Full-Stack Developer with a focus on crafting futuristic 3D websites and innovative web applications. Currently, I'm perfecting my front-end skills with modern technologies like Next.js, React, Three.js, and TailwindCSS, and honing my back-end expertise with Node.js, SQL, and MongoDB.<br><br>🚀 I'm diving deep into WebGL and 3D animations, pushing the boundaries of what’s possible on the web to create visually stunning and interactive user experiences.<br><br>💻 I’m working on various personal projects that showcase my growing skills, all of which are pinned to my GitHub for you to explore. As I continue to refine my expertise, my ultimate goal is to become a Full-Stack Developer known for my ability to create dynamic, immersive websites that blur the line between the digital and physical worlds.<br><br>🎮 Long-term, I aim to branch into mobile apps and game development, combining my 3D design expertise with immersive experiences across multiple platforms.<br><br>🔭 Always learning, always evolving. Let’s build something amazing together.
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elijahkazungu21@gmail.com) 
 
@@ -11,5 +10,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ETG1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ETG1&icon=0&color=0)](https://visitcount.itsvg.in)
